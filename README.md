@@ -10,4 +10,6 @@ En el..
 # Modificar
 Solamente hay un documento principal (main.md) a partir del que se generan todos los demás. Para ello, simplemente, hay que ejecutar el archivo domagic.sh. 
 
+# Créditos
+Presentaciones realizadas con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>
 
