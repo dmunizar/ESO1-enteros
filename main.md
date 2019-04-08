@@ -1,7 +1,7 @@
 ---
 title:  ENTEROS Y ÁLGEBRA - 1º ESO <br> 
 author: "@dmunizar"
-subtitle: Matemáticas con significado <br> <img src="assets/logoUZ.png" align="center" style="padding-right:0px;" width="200" > <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" width="90px">
+subtitle: Matemáticas con significado <br> <a href="https://github.com/dmunizar">github.com/dmunizar</a> <br> <img src="assets/logoUZ.png" align="center" style="padding-right:0px;" width="200" > <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" width="90px">
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 titlepage: true
