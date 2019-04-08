@@ -299,7 +299,7 @@ h. $\quad 117 - 22$
 
 ## 
 
-(@) Coloca los signos + y - que faltan en las siguientes igualdades:
+(@) Coloca los signos $+$ y $-$ que faltan en las siguientes igualdades:
 
 :::incremental
 a. $\quad 765 - (100 - 1) = 765 - 99 = 765 \,\square \, 100 \,\square \, 1$
