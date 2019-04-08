@@ -306,7 +306,7 @@ a. $\quad 765 - (100 - 1) = 765 - 99 = 765 \,\square \, 100 \,\square \, 1$
 b. $\quad 80 - (30 - 1) = 80 - 29 = 80 \,\square \, 30 \,\square \, 1$
 c. $\quad 141 - (100 + 2) = 141- 102 = 141 \,\square \, 100 \,\square \, 2$
 d. $\quad 92 - (42 +3) = 92 - 45 = 92 \,\square \, 42 \,\square \, 3$
-e. $\quad 325 + (200 - 3) = 325 - 197 = 325 \,\square \, 200 \,\square \, 3$
+e. $\quad 325 + (200 - 3) = 325 + 197 = 325 \,\square \, 200 \,\square \, 3$
 :::
 
 
@@ -380,14 +380,22 @@ b. ¿Si sabemos que la diferencia entre el número de canicas de Javier y el de 
 
 c. Completa la siguiente tabla:
 
-  Diferencia entre el nº de canicas de Javier y Marcos   Diferencia entre el nº de canicas de Carlos y Enrique
-  ------------------------------------------------------ -------------------------------------------------------
+------------------------------------------------------------------------------------------------
+  Diferencia entre el nº de canicas 				Diferencia entre el nº de canicas 
+  de Javier y Marcos   								de Carlos y Enrique
+  ----------------------------------------- 	--------------------------------------------
   7                                                      
+  
   20                                                     
-                                                         18
-                                                         24
+																	18
+																	
+																	24
+																	
   d                                                      
-                                                         e
+																	e
+																	
+------------------------------------------------------------------------------------------------
+
 
 ## 
 
