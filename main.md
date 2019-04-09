@@ -13,7 +13,8 @@ titlepage-rule-height: 1
 
 # {1} CÓMO CONSTRUIR EXPRESIONES ALGEBRAICAS {data-background-image="assets/images/fondo1.jpg" data-background-opacity="0.3"}
 
-## 
+## {data-background-image="assets/images/kids.jpg" data-background-opacity="0.3"}
+
 (@) Laura se llevó sus cromos al colegio para jugar varias partidas. En la primera perdió 9 cromos y en la segunda ganó 7 cromos. ¿Cuántos cromos le quedaron después de jugar?
 
 :::::::::answer
@@ -732,6 +733,7 @@ Cid, E. (2015) [_Obstáculos epistemológicos en la enseñanza de los números n
 ##
 Presentaciones y materiales realizados con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.latex-project.org/">LaTeX</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>
 
+<a href="https://www.freepik.es/fotos-vectores-gratis/personas">Foto de personas creado por pressfoto - www.freepik.es</a>
 <a href="https://www.freepik.es/fotos-vectores-gratis/fondo">Foto de fondo creado por onlyyouqj - www.freepik.es</a>
 <a href="https://www.freepik.es/fotos-vectores-gratis/personas">Foto de personas creado por pressfoto - www.freepik.es</a>
 <a href="https://www.freepik.es/fotos-vectores-gratis/personas">Foto de personas creado por freepik - www.freepik.es</a>
