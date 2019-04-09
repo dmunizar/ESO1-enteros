@@ -1,7 +1,7 @@
 ---
 title:  ENTEROS Y ÁLGEBRA - 1º ESO <br> 
-author: "@dmunizar"
-subtitle: Matemáticas con significado <br> <a href="https://github.com/dmunizar">github.com/dmunizar</a> <br> <img src="assets/logoUZ.png" align="center" style="padding-right:0px;" width="200" > <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" width="90px">
+subtitle: Matemáticas con significado <br>
+author: \@dmunizar <br> <a href="https://github.com/dmunizar">github.com/dmunizar</a>  <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" width="260" > <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" width="120px">
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 titlepage: true
@@ -11,10 +11,9 @@ titlepage-rule-color: "FFFFFF"
 titlepage-rule-height: 1
 ---
 
-# {1} CÓMO CONSTRUIR EXPRESIONES ALGEBRAICAS
+# {1} CÓMO CONSTRUIR EXPRESIONES ALGEBRAICAS {data-background-image="assets/images/fondo1.jpg" data-background-opacity="0.3"}
 
-##
-
+## 
 (@) Laura se llevó sus cromos al colegio para jugar varias partidas. En la primera perdió 9 cromos y en la segunda ganó 7 cromos. ¿Cuántos cromos le quedaron después de jugar?
 
 :::::::::answer
@@ -27,12 +26,12 @@ c.  ¿Tiene más o menos que antes? ¿Cuántos más o cuántos menos?
 :::
 :::::::::
 
-##
+##  
 
 (@) Un tren sale de Zaragoza con cierto número de pasajeros y llega a Teruel después de hacer dos paradas. En la primera parada, bajan 15 y suben 12 pasajeros; en la segunda parada, bajan 38 y suben 42 pasajeros. ¿Con cuántos pasajeros llegó el tren a Teruel?
 
 
-##
+## 
 
 (@) Completa las tablas siguientes sobre el número de pasajeros del tren anterior.
 
@@ -101,7 +100,7 @@ c. $\quad 12 - a - 5$
 :::
 
 
-# {2} CÓMO SIMPLIFICAR EXPRESIONES ALGEBRAICAS
+# {2} CÓMO SIMPLIFICAR EXPRESIONES ALGEBRAICAS {data-background-image="assets/images/fondo1.jpg" data-background-opacity="0.3"}
 
 ## 
 
@@ -119,6 +118,7 @@ c. $\quad 18 - 5 + x + 5 - 8 = 18 + x - 8 = 18 - 8 + x = 10 + x$
 ##
 
 (@) Completa las siguientes frases:
+
 
 :::incremental
 
@@ -202,7 +202,7 @@ g.  $\quad 4a - 8b - 6c - 3a + 18b$
 
 :::
 
-# {3} CÓMO COMPARAR EXPRESIONES ALGEBRAICAS
+# {3} CÓMO COMPARAR EXPRESIONES ALGEBRAICAS {data-background-image="assets/images/fondo1.jpg" data-background-opacity="0.3"}
 
 ##
 
@@ -278,7 +278,7 @@ d.  $11$ veces mayor que $16 - 3a$
 :::
 
 
-# {4} CÓMO ENCONTRAR LA DIFERENCIA ENTRE EXPRESIONES ALGEBRAICAS.
+# {4} CÓMO ENCONTRAR LA DIFERENCIA ENTRE EXPRESIONES ALGEBRAICAS {data-background-image="assets/images/fondo1.jpg" data-background-opacity="0.3"}
 
 ## 
 (@) Cuando se calcula mentalmente se procura buscar la forma más sencilla posible de efectuar las operaciones. ¿Cómo haces las siguientes operaciones?
@@ -366,14 +366,15 @@ d. Restar $a - b$ es lo mismo que \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $a$ y \_\_\_\_\
 
 a. Carlos tiene 6 canicas más que Javier y Enrique 10 canicas menos que Marcos. Si sabemos que Carlos tiene más canicas que Enrique, ¿cuántas más tiene?
 
-  Nº de canicas de Javier                                 
   ------------------------------------------------------- -----
+  Nº de canicas de Javier                                 
   Nº de canicas de Carlos                                 
   Nº de canicas de Marcos                                 
   Nº de canicas de Enrique                                
   Diferencia entre el nº de canicas de Javier y Marcos    
   Diferencia entre el nº de canicas de Carlos y Enrique   
-
+  ------------------------------------------------------- -----
+  
 b. ¿Si sabemos que la diferencia entre el número de canicas de Javier y el de Marcos es 4, ¿cuál será la diferencia entre el número de canicas de Carlos y el de Enrique?
 
 ## 
@@ -447,7 +448,7 @@ d. $\quad 5 - (4 - (3 - (2 - 1)))$ Deshacer paréntesis: SÍ NO
 e. $\quad 4578 + 3127 - 578 - (127 +841 + 512) + 841 + 12$ Deshacer paréntesis: SÍ NO
 :::
 
-# {5} CÓMO MULTIPLICAR EXPRESIONES ALGEBRAICAS
+# {5} CÓMO MULTIPLICAR EXPRESIONES ALGEBRAICAS {data-background-image="assets/images/fondo1.jpg" data-background-opacity="0.3"}
 
 ## 
 

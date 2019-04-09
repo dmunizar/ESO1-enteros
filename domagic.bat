@@ -1,3 +1,3 @@
-pandoc -t revealjs --from markdown+fenced_divs+fancy_lists+example_lists -s --mathjax main.md --lua-filter ./pandoc/noanswers.lua --lua-filter ./pandoc/noanswers_sec.lua --lua-filter ./pandoc/noteacher_sec.lua -o diapositivas.html -V revealjs-url=./reveal.js -V theme=my_white
+pandoc -t revealjs --from markdown+fenced_divs+fancy_lists+example_lists -s --mathjax main.md --lua-filter ./pandoc/noanswers.lua --lua-filter ./pandoc/noanswers_sec.lua --lua-filter ./pandoc/noteacher_sec.lua -o diapositivas.html -V revealjs-url=./reveal.js -V theme=my_black
 pandoc -t revealjs --from markdown+fenced_divs+fancy_lists+example_lists -s --mathjax main.md -o diapositivas_soluciones.html --lua-filter ./pandoc/noteacher_sec.lua -V revealjs-url=./reveal.js -V theme=my_white
 pandoc -t revealjs --from markdown+fenced_divs+fancy_lists+example_lists -s --mathjax main.md -o propuesta_didactica.html -V revealjs-url=./reveal.js -V theme=my_white

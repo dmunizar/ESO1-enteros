@@ -16,7 +16,7 @@ body {
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-size: 28px;
+  font-size: 32px;
   font-weight: normal;
   color: #222; }
 
@@ -35,7 +35,7 @@ body {
  *********************************************/
 
 @font-face {
-    font-family: 'uncial';
+    font-family: 'oswald';
     /*src: url('UncialAntiqua-Regular.ttf');*/
     src: url('Oswald-Bold.ttf');
     font-weight: normal;
@@ -51,7 +51,7 @@ body {
 .reveal h6 {
   margin: 0 0 10px 0;
   color: #222;
-  font-family: uncial, Helvetica, sans-serif;
+  font-family: oswald, Helvetica, sans-serif;
   font-weight: 300;
   line-height: 1.2;
   letter-spacing: normal;
@@ -80,8 +80,16 @@ body {
  .reveal p.subtitle{
   margin: 20px 0;
   line-height: 1.3;
-  font-family: uncial, Helvetica, sans-serif;
+  font-family: oswald, Helvetica, sans-serif;
   font-size: 1.6em;  
+  text-align: center;
+  }
+ 
+  .reveal p.author{
+  margin: 20px 0;
+  line-height: 1.3;
+  font-family: oswald, Helvetica, sans-serif;
+  font-size: 1em;  
   text-align: center;
   }
  
