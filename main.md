@@ -26,12 +26,12 @@ c.  ¿Tiene más o menos que antes? ¿Cuántos más o cuántos menos?
 :::
 :::::::::
 
-##  
+##  {data-background-image="assets/images/tren.jpg" data-background-opacity="0.2"}
 
 (@) Un tren sale de Zaragoza con cierto número de pasajeros y llega a Teruel después de hacer dos paradas. En la primera parada, bajan 15 y suben 12 pasajeros; en la segunda parada, bajan 38 y suben 42 pasajeros. ¿Con cuántos pasajeros llegó el tren a Teruel?
 
 
-## 
+## {data-background-image="assets/images/tren.jpg" data-background-opacity="0.2"}
 
 (@) Completa las tablas siguientes sobre el número de pasajeros del tren anterior.
 
@@ -49,7 +49,7 @@ c.  ¿Tiene más o menos que antes? ¿Cuántos más o cuántos menos?
 |                                     |                            c            	|
 
 
-## {.answer}
+## {data-background-image="assets/images/tren.jpg" data-background-opacity="0.2"} {.answer}
 
 Completa las tablas siguientes sobre el número de pasajeros del tren anterior.
 
@@ -68,13 +68,13 @@ Completa las tablas siguientes sobre el número de pasajeros del tren anterior.
 
 
 
-##
+## {data-background-image="assets/images/compras.jpg" data-background-opacity="0.2"}
 
 (@) María va de compras. Lleva 120 €. Compra primero un pantalón que le cuesta 40 € y después unos zapatos. Por último, compra un libro por 15 €. ¿Cuánto dinero le queda?
 
 (@) Si María nos dice que le han quedado 30€, ¿podemos averiguar cuánto le han costado los zapatos? ¿Y si le quedan 15 €? ¿Y si solo le quedan 5 €?
 
-##
+## {data-background-image="assets/images/granja.jpg" data-background-opacity="0.2"}
 
 (@) Un ganadero tiene vacas y ovejas. Las vacas paren 21 crías y las ovejas, 57. Además el ganadero vende 30 vacas y 70 ovejas. Completa la siguiente tabla en la que se proponen algunos casos particulares. Escribe el caso general al final, poniendo las fórmulas.
 
@@ -221,7 +221,7 @@ c. ¿Podrán pagar el regalo si vale 105 €?
 
 :::
 
-## 
+## {data-background-image="assets/images/hucha.jpg" data-background-opacity="0.3"}
 
 (@) Al empezar el colegio en septiembre, María, Adrián y Luisa tienen el mismo dinero en su hucha. Entre septiembre y Navidad gastan o reciben las siguientes cantidades:
 
@@ -727,6 +727,12 @@ Se trata de la propuesta didáctica diseñada por Cid (2015), y analizada con de
 
 Cid, E. (2015) [_Obstáculos epistemológicos en la enseñanza de los números negativos_](http://www.atd-tad.org/documentos/obstaculos-epistemologicos-en-la-ensenanza-de-los-numeros-negativos-tesis-doctoral/). Tesis doctoral. Universidad de Zaragoza.
 
-Presentaciones y materiales realizados con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.latex-project.org/">LaTeX</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>
-		
 <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" width="90px">
+
+##
+Presentaciones y materiales realizados con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.latex-project.org/">LaTeX</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>
+
+<a href="https://www.freepik.es/fotos-vectores-gratis/fondo">Foto de fondo creado por onlyyouqj - www.freepik.es</a>
+<a href="https://www.freepik.es/fotos-vectores-gratis/personas">Foto de personas creado por pressfoto - www.freepik.es</a>
+<a href="https://www.freepik.es/fotos-vectores-gratis/personas">Foto de personas creado por freepik - www.freepik.es</a>
+<a href="https://www.freepik.es/fotos-vectores-gratis/fondo">Foto de fondo creado por rawpixel.com - www.freepik.es</a>
