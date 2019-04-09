@@ -337,10 +337,10 @@ d. $\quad 12 + 8 + 3$
 
 ## 
 
-C. Completa la siguiente tabla, colocando al lado de las operaciones del apartado I), las operaciones del apartado II) que tienen el mismo resultado.
+C. Completa la siguiente tabla, colocando al lado de las operaciones del apartado A), las operaciones del apartado B) que tienen el mismo resultado.
 
   -------- 			-------
-  Apartado I       		Apartado II
+  Apartado A       		Apartado B
   $12 - (8 - 3)$   
   $12 - (8 + 3)$    
   $12 + (8 - 3)$    
@@ -351,13 +351,13 @@ C. Completa la siguiente tabla, colocando al lado de las operaciones del apartad
 
 (@) Completa las siguientes frases:
 
-a. Sumar $a + b$ es lo mismo que \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $a$ y \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $b$.
+a. Sumar $(a + b)$ es lo mismo que \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $a$ y \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $b$.
 
-b. Sumar $a - b$ es lo mismo que \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $a$ y \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $b$.
+b. Sumar $(a - b)$ es lo mismo que \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $a$ y \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $b$.
 
-c. Restar $a + b$ es lo mismo que \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $a$ y \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $b$.
+c. Restar $(a + b)$ es lo mismo que \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $a$ y \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $b$.
 
-d. Restar $a - b$ es lo mismo que \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $a$ y \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $b$.
+d. Restar $(a - b)$ es lo mismo que \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $a$ y \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ $b$.
 
 
 ## 
