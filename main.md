@@ -13,7 +13,7 @@ titlepage-rule-height: 1
 
 # {1} CÓMO CONSTRUIR EXPRESIONES ALGEBRAICAS {data-background-image="assets/images/fondo1.jpg" data-background-opacity="0.3"}
 
-## {data-background-image="assets/images/kids.jpg" data-background-opacity="0.3"}
+## {data-background-image="assets/images/kids.jpg" data-background-opacity="0.18"}
 
 (@) Laura se llevó sus cromos al colegio para jugar varias partidas. En la primera perdió 9 cromos y en la segunda ganó 7 cromos. ¿Cuántos cromos le quedaron después de jugar?
 
