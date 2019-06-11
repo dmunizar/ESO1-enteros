@@ -380,7 +380,7 @@ b. ¿Si sabemos que la diferencia entre el número de canicas de Javier y el de 
 
 ## 
 
-c. Completa la tabla:
+c. Completa la siguiente tabla:
 
 ------------------------------------------------------------------------------------------------
   Diferencia entre el nº de canicas 				Diferencia entre el nº de canicas 
